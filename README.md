@@ -5,13 +5,13 @@
 
 ## :books: references...?!
 * ### :crayon: Design
-  	:sparkle:정세연 담당
+  	:ballot_box_with_check:정세연 담당
   * https://wwit.design/
   * https://www.uxarchive.com/
   * https://mobbin.com/browse/ios/apps
    
 * ### :robot: AI
-  	:sparkle:김기남, 노서준 담당
+  	:ballot_box_with_check:김기남, 노서준 담당
   * Chat GPT  
 https://openai.com/blog/chatgpt 
   * 음식 이미지 데이터 활용 - 데이터 분야 - AI 데이터찾기- AI-HUB(aihub.or.kr)  
@@ -26,12 +26,12 @@ https://github.com/Polaroidd/BMSE_capstone_design
 https://github.com/Herick-Asmani/Food-101-classification-using-ResNet-50
 
 * ### :green_heart: Android
-  	:sparkle:정성문, 정현태 담당
+  	:ballot_box_with_check:정성문, 정현태 담당
   * Chat GPT  
 https://openai.com/blog/chatgpt
 
 * ### :apple: iOS
-  	:sparkle:김세아 담당
+  	:ballot_box_with_check:김세아 담당
   * Chat GPT  
 https://openai.com/blog/chatgpt 
   * https://ios-development.tistory.com/1075
