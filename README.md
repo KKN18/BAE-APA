@@ -6,7 +6,7 @@
 
 음식 이미지 데이터 활용
 
-데이터 분야 - AI 데이터찾기- AI-HUB(aihub.or.kr)
+- 데이터 분야 - AI 데이터찾기- AI-HUB(aihub.or.kr)
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=242
 
 
