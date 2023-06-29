@@ -7,12 +7,9 @@
     * 데이터 분야 - AI 데이터찾기- AI-HUB(aihub.or.kr)
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=242
 
-
-- 서버 구축 self reference
-
+ * 서버 구축 self reference
 https://github.com/Polaroidd/BMSE_capstone_design
-
-- 질병관리청 - 음식별 식품재료량 → food_recipe.csv
+ * 질병관리청 - 음식별 식품재료량 → food_recipe.csv
 
 [국민건강영양조사_음식별_식품재료량_자료집 - Dataset - 미래수산 DATAHUB (pknu.ac.kr)](https://data.pknu.ac.kr/no/dataset/foodingred)
 
