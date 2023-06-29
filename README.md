@@ -3,14 +3,15 @@
 ### Member. 김기남 김세아 노서준 정성문 정세연 정현태  
 ### Project. BAE-APA?  
 
-## :books: references...?
+## :books: references...?!
 * ### :crayon: Design
-  정세연
+  정세연 담당
   * https://wwit.design/
   * https://www.uxarchive.com/
   * https://mobbin.com/browse/ios/apps
    
-* ### :robot: AI(김기남, 노서준)
+* ### :robot: AI
+  김기남, 노서준 담당
   * Chat GPT  
 https://openai.com/blog/chatgpt 
   * 음식 이미지 데이터 활용 - 데이터 분야 - AI 데이터찾기- AI-HUB(aihub.or.kr)  
@@ -24,11 +25,13 @@ https://github.com/Polaroidd/BMSE_capstone_design
   * 이미지 분류 AI - 사전학습 모델 활용 파인튜닝  
 https://github.com/Herick-Asmani/Food-101-classification-using-ResNet-50
 
-* ### :green_heart: Android(정성문, 정현태)
+* ### :green_heart: Android
+  정성문, 정현태 담당
   * Chat GPT  
 https://openai.com/blog/chatgpt
 
-* ### :apple: iOS(김세아)
+* ### :apple: iOS
+  김세아 담당
   * Chat GPT  
 https://openai.com/blog/chatgpt 
   * https://ios-development.tistory.com/1075
