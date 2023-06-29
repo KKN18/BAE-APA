@@ -1,7 +1,7 @@
 # :desktop_computer: **JOINT HACKTHON FOR SWUniv 2023**
- Team. **#39. BAE-GOPA**  
- Member. **김기남 김세아 노서준 정성문 정세연 정현태**  
- Project. **BAE-APA?**
+ **Team.** \#39. BAE-GOPA  
+ **Member.** 김기남 김세아 노서준 정성문 정세연 정현태  
+ **Project.** BAE-APA?  
 
 ## :books: references...
 * ### :robot: AI
