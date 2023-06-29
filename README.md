@@ -1,4 +1,4 @@
-# :desktop_computer:  **JOINT HACKTHON for SW Univ 2023**
+# :desktop_computer:  **2023 JOINT HACKTHON for SW Univ.**
 ### :orange_circle: Project. \<BAE-APA>  
 ### :orange_circle: Team. \#39 BAE-GOPA 
 ### :orange_circle: Member. 김기남, 김세아, 노서준, 정성문, 정세연, 정현태  
