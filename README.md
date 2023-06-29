@@ -6,8 +6,6 @@
 
 - AI-HUB - 음식 이미지 데이터 활용
 데이터 분야 - AI 데이터찾기: [AI-Hub(aihub.or.kr)][("https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=242")]
-[데이터 분야 - AI 데이터찾기 - AI-Hub (aihub.or.kr)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=242)
-    
 - 서버 구축 self reference
 
 https://github.com/Polaroidd/BMSE_capstone_design
