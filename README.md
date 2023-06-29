@@ -30,3 +30,6 @@ iOS
 - https://ios-development.tistory.com/1075
 - https://mangsang.tistory.com/40
 - https://www.youtube.com/watch?v=OPTzgeIKMgU&ab_channel=Indently
+- https://www.youtube.com/watch?v=EFcMNSP0K9w&ab_channel=CodeWithCal
+- https://developer.apple.com/forums/thread/41299
+- https://riptutorial.com/ios/example/9284/changing-tab-bar-item-title-and-icon
