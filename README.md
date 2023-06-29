@@ -16,15 +16,21 @@ https://github.com/Polaroidd/BMSE_capstone_design
 https://github.com/Herick-Asmani/Food-101-classification-using-ResNet-50
 
 
-    
+
+
+
+
 
 * ### :green_heart: Android
   * Chat GPT  
 https://openai.com/blog/chatgpt
 
-  
 
-  
+
+
+
+
+
 * ### :apple: iOS
   * Chat GPT  
 https://openai.com/blog/chatgpt 
