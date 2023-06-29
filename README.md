@@ -5,13 +5,13 @@
 
 ## :books: references...?!
 * ### :crayon: Design
-  	:heavy_check_mark: 정세연 담당
+  	:heavy_check_mark: 정세연 담당(Using Blender, Figma)
   * https://wwit.design/
   * https://www.uxarchive.com/
   * https://mobbin.com/browse/ios/apps
    
 * ### :robot: AI
-  	:heavy_check_mark: 김기남, 노서준 담당
+  	:heavy_check_mark: 김기남, 노서준 담당(using Google Colab)
   * Chat GPT  
 https://openai.com/blog/chatgpt 
   * 음식 이미지 데이터 활용 - 데이터 분야 - AI 데이터찾기- AI-HUB(aihub.or.kr)  
@@ -26,12 +26,12 @@ https://github.com/Polaroidd/BMSE_capstone_design
 https://github.com/Herick-Asmani/Food-101-classification-using-ResNet-50
 
 * ### :green_heart: Android
-  	:heavy_check_mark: 정성문, 정현태 담당
+  	:heavy_check_mark: 정성문, 정현태 담당(using Android Studio)
   * Chat GPT  
 https://openai.com/blog/chatgpt
 
 * ### :apple: iOS
-  	:heavy_check_mark: 김세아 담당
+  	:heavy_check_mark: 김세아 담당(using Xcode)
   * Chat GPT  
 https://openai.com/blog/chatgpt 
   * https://ios-development.tistory.com/1075
