@@ -1,5 +1,5 @@
 # **JOINT HACKTHON FOR SWUniv 2023**
-## Team \#39. BAE-GOPA
+> Team \#39. BAE-GOPA
 ---
 
 # :flushed: BAE-APA?
