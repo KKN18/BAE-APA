@@ -2,8 +2,8 @@
 ### :orange_circle: Project. \<BAE-APA>  
 ### :orange_circle: Team. \#39 BAE-GOPA 
 ### :orange_circle: Member. 김기남, 김세아, 노서준, 정성문, 정세연, 정현태  
-Nition Link : 
-[Notion](https://www.notion.so/3a658c7cdc8d430eb214d79940dd44f6?v=9c9275bb612a4d40aa1c5fb88ba90659&pvs=4, "Notion link")
+Notion : 
+[This is our Notion Link!](https://www.notion.so/3a658c7cdc8d430eb214d79940dd44f6?v=9c9275bb612a4d40aa1c5fb88ba90659&pvs=4, "Notion link")
 ## :books: references...?!
 * ### :crayon: Design
   	:heavy_check_mark: 정세연 담당(using Blender, Figma)
