@@ -2,9 +2,10 @@
 
 ## :books: references...
 * ### AI
+  * Chat GPT
+https://openai.com/blog/chatgpt 
   * 음식 이미지 데이터 활용 - 데이터 분야 - AI 데이터찾기- AI-HUB(aihub.or.kr)
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=242
-
   * 서버 구축 self reference
 https://github.com/Polaroidd/BMSE_capstone_design
   * 질병관리청 - 음식별 식품재료량 → food_recipe.csv
@@ -14,8 +15,13 @@ https://github.com/Polaroidd/BMSE_capstone_design
   * 이미지 분류 AI - 사전학습 모델 활용 파인튜닝
 https://github.com/Herick-Asmani/Food-101-classification-using-ResNet-50
 
+* ### Android
+  * Chat GPT
+https://openai.com/blog/chatgpt 
 
 * ### iOS
+  * Chat GPT
+https://openai.com/blog/chatgpt 
   * https://ios-development.tistory.com/1075
   * https://mangsang.tistory.com/40
   * https://www.youtube.com/watch?v=OPTzgeIKMgU&ab_channel=Indently
