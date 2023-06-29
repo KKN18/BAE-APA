@@ -4,7 +4,8 @@
 ### Project. BAE-APA?  
 
 ## :books: references...?
-* ### :crayon: Design(정세연)
+* ### :crayon: Design
+  정세연
   * https://wwit.design/
   * https://www.uxarchive.com/
   * https://mobbin.com/browse/ios/apps
