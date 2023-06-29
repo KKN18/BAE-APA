@@ -14,6 +14,7 @@ https://github.com/Polaroidd/BMSE_capstone_design
   * 이미지 분류 AI - 사전학습 모델 활용 파인튜닝
 https://github.com/Herick-Asmani/Food-101-classification-using-ResNet-50
 
+
 * ### iOS
   * https://ios-development.tistory.com/1075
   * https://mangsang.tistory.com/40
