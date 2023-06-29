@@ -24,6 +24,10 @@ https://github.com/Polaroidd/BMSE_capstone_design
 [농식품 올바로 - 국가표준식품성분표 개요 (rda.go.kr)](http://koreanfood.rda.go.kr/kfi/fct/fctIntro/list?menuId=PS03562#)
   * 이미지 분류 AI - 사전학습 모델 활용 파인튜닝  
 https://github.com/Herick-Asmani/Food-101-classification-using-ResNet-50
+  * Azusa Takaoka; Masaya Sasaki; Naoko Nakanishi; Mika Kurihara; Akiko Ohi; Shigeki Bamba; Akira Andoh, ****Nutritional Screening and Clinical Outcome in Hospitalized Patients with Crohn’s Disease,**** *Ann Nutr Metab(*****2018), 71(3-4): 266 - 272.****
+  * Philipsen-Geerling, Bertine J.a; Brummer, Robert J.M.b, ***Current Opinion in Clinical Nutrition and Metabolic Care (2000),*** [3(4):p 305-309](https://journals.lww.com/co-clinicalnutrition/toc/2000/07000)
+  * R. DI LUZIO, S. MOSCATIELLO, G. MARCHESINI, Role of nutrition in gastrointestinal
+oncological patients, European Review for Medical and Pharmacological Sciences(2010), 14: 227-284
 
 * ### :green_heart: Android
   	:heavy_check_mark: 정성문, 정현태 담당(using Android Studio)
