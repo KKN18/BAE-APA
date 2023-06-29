@@ -5,7 +5,7 @@
 
 ## :books: references...?!
 * ### :crayon: Design
-  	:heavy_check_mark: 정세연 담당(Using Blender, Figma)
+  	:heavy_check_mark: 정세연 담당(using Blender, Figma)
   * https://wwit.design/
   * https://www.uxarchive.com/
   * https://mobbin.com/browse/ios/apps
