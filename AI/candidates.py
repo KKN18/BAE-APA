@@ -278,21 +278,21 @@ for a in chronic_red_lst:
         chrr = "3"
 for a in spicy_dic.keys():
     if food_name in a:
-        if spicy_dic[a] > 20:
+        if spicy_dic[a] > 21.75:
             spi = "3"
-        elif spicy_dic[a] > 10:
+        elif spicy_dic[a] > 11.32:
             spi = "2"
         else:
             spi = "1"
-if v>20:
+if v>17.35:
     spi = "2"
-if v>30:
+if v>27.21:
     spi = "2"
 
 
-if s>30 or v>30:
+if s>28.45 or v>29.32:
     sv = "3"
-elif s>15 or v>15:
+elif s>14.23 or v>15.43:
     sv = "2"
 else:
     sv = "1"
