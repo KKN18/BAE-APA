@@ -1,9 +1,9 @@
-# :books: BAE-APA
+# :flushed: BAE-APA
 
 
-
-# references
-AI
+## :books: references
+###AI
+Link: [AI-HUB : 음식 이미지 데이터 활용][aihub.or.kr)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=242]
 
 - AI-HUB - 음식 이미지 데이터 활용
     
@@ -25,7 +25,7 @@ https://github.com/Polaroidd/BMSE_capstone_design
 
 https://github.com/Herick-Asmani/Food-101-classification-using-ResNet-50
 
-iOS
+###iOS
 
 - https://ios-development.tistory.com/1075
 - https://mangsang.tistory.com/40
