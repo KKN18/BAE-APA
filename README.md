@@ -1,7 +1,7 @@
 # :desktop_computer:  **2023 JOINT HACKTHON for SW Univ.**
-### :orange_circle: Project. \<BAE-APA>  
-### :orange_circle: Team. \#39 BAE-GOPA 
-### :orange_circle: Member. 김기남, 김세아, 노서준, 정성문, 정세연, 정현태  
+### :orange_circle: _Project_. \<BAE-APA>  
+### :orange_circle: _Team_. \#39 BAE-GOPA 
+### :orange_circle: _Member_. 김기남, 김세아, 노서준, 정성문, 정세연, 정현태  
 ... and > [**THIS**](https://www.notion.so/3a658c7cdc8d430eb214d79940dd44f6?v=9c9275bb612a4d40aa1c5fb88ba90659&pvs=4, "Notion link") < is our Notion!
 ## :books: references...
 * ### :crayon: Design
