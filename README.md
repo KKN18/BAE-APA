@@ -1,7 +1,7 @@
 # :flushed: BAE-APA
 
 ## :books: references...
-* ### AI
+* ### :robot: AI
   * Chat GPT
 https://openai.com/blog/chatgpt 
   * 음식 이미지 데이터 활용 - 데이터 분야 - AI 데이터찾기- AI-HUB(aihub.or.kr)
@@ -19,7 +19,7 @@ https://github.com/Herick-Asmani/Food-101-classification-using-ResNet-50
   * Chat GPT
 https://openai.com/blog/chatgpt 
 
-* ### iOS
+* ### :apple: iOS
   * Chat GPT
 https://openai.com/blog/chatgpt 
   * https://ios-development.tistory.com/1075
